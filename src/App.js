@@ -53,7 +53,7 @@ let data = [
 	product: "Color Pencil",
 	amount: "₹100",
 	url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZVlpaXkBsizdDvfk7WEZFDtFDt0SoUZo-Q&usqp=CAU"
-  },
+  },     
 ];
 
 function Card() {
